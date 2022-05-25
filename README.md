@@ -1,7 +1,7 @@
 # Survival Froggy
  • Được lấy cảm hứng từ các thể loại game như Crossy Road,... Survival Froggy là game về một chú ếch cố gắng băng qua dòng đường tràn ngập xe cộ và con sông chảy xiết với những chú rùa, nhưng thanh gỗ trôi lềnh bềnh, cũng như tồn tại mối hiểm nguy mang tên cá sấu! 
   
- # Hướng dẫn cài đặt
+ ## Hướng dẫn cài đặt
   • Download file zip của game rồi extract tại ổ E. (Nếu bạn không có ổ E thì điều chỉnh lại Makefile sao cho phù hợp)
   
   • Mở folder trong Visual Studio Code.
@@ -10,7 +10,7 @@
   
   • Sau đó thì tận hưởng con game!
  
- # Luật chơi
+ ## Luật chơi
   • Press ↑ để điều khiển chú ếch đi lên.
   
   • Press → để điều khiển chú ếch rẽ phải.
@@ -25,7 +25,7 @@
   
   **Win Condition:** Để có thể giành chiến thắng thì người chơi sẽ phải đưa chú ếch đến đầm lầy của mình không những một mà là năm lần để có thể qua được một level! Bạn sẽ chỉ có một mạng duy nhất, khi để thua một lần thì... GAME OVER!
   
-# Một số chức năng đã cài đặt
+## Một số chức năng đã cài đặt
   • Hệ thống đếm ngược thời gian : cụ thể mỗi level bạn sẽ có 63s để có thể băng qua đến đầm lầy của mình.
   
   • Hiệu ứng chuyển màn.
@@ -37,7 +37,6 @@
   ![Frog](https://user-images.githubusercontent.com/100585484/170363977-b4a861a1-1e9b-4db1-97af-6458aa53027c.png)
   ![Turtle](https://user-images.githubusercontent.com/100585484/170364104-d125c2e5-c342-4425-b7b3-dd0c63d1f876.png)
   ![Map](https://user-images.githubusercontent.com/100585484/170364134-e6a28087-fc99-45f8-8d90-134b6bb7eecb.png)
-
 
 
   
