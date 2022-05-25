@@ -25,5 +25,13 @@
   
   **Win Condition:** Để có thể giành chiến thắng thì người chơi sẽ phải đưa chú ếch đến đầm lầy của mình không những một mà là năm lần để có thể qua được một level! Bạn sẽ chỉ có một mạng duy nhất, khi để thua một lần thì... GAME OVER!
   
-# 
+# Một số chức năng đã cài đặt
+  • Hệ thống đếm ngược thời gian : cụ thể mỗi level bạn sẽ có 63s để có thể băng qua đến đầm lầy của mình.
+  
+  • Hiệu ứng chuyển màn.
+  
+  • Thêm một số hoạt ảnh chuyển động của cá sấu, rùa, cũng như của chú ếch. Có thể tham khảo như sau:
+  ![Cars](https://user-images.githubusercontent.com/100585484/170363889-158e59dd-85e0-457e-84ac-07d1f024cf78.png)
+
+  
    
