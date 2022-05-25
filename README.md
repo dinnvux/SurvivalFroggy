@@ -35,8 +35,10 @@
   ![Cars](https://user-images.githubusercontent.com/100585484/170363889-158e59dd-85e0-457e-84ac-07d1f024cf78.png)
   ![Croc](https://user-images.githubusercontent.com/100585484/170363966-1db3237c-4b7d-4b9a-82e1-0a39360cd25a.png)
   ![Frog](https://user-images.githubusercontent.com/100585484/170363977-b4a861a1-1e9b-4db1-97af-6458aa53027c.png)
+  ![Turtle](https://user-images.githubusercontent.com/100585484/170364104-d125c2e5-c342-4425-b7b3-dd0c63d1f876.png)
+  ![Map](https://user-images.githubusercontent.com/100585484/170364134-e6a28087-fc99-45f8-8d90-134b6bb7eecb.png)
 
-  
+
 
   
    
