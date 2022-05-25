@@ -51,10 +51,10 @@
   
 # Kết luận 
   ## Hướng phát triển
-    • Trong tương lai em mong có thể cải thiện hơn về mặt hình ảnh, có thể thêm vào các hiệu ứng về âm thanh, menu cũng như hiệu ứng khi thua game.
+  • Trong tương lai em mong có thể cải thiện hơn về mặt hình ảnh, có thể thêm vào các hiệu ứng về âm thanh, menu cũng như hiệu ứng khi thua game.
    
-    • Tạo thêm nhiều level với đa dạng map. Thậm chí nếu có thể thì sẽ không chỉ 1 chú ếch mà sẽ là 2 chú ếch.
+  • Tạo thêm nhiều level với đa dạng map. Thậm chí nếu có thể thì sẽ không chỉ 1 chú ếch mà sẽ là 2 chú ếch.
   ## Bài học
-    • Game vẫn chưa thật sự hoàn thiện và logic code vẫn phụ thuộc khá nhiều từ các nguồn trên mạng. 
-   
-    • Mặt khác, em đã biết thêm nhiều hơn về thư viện đồ họa, về logic của game và biết làm game rất khó, cần sự tỉ mỉ, cần mẫn....
+  • Game vẫn chưa thật sự hoàn thiện và logic code vẫn phụ thuộc khá nhiều từ các nguồn trên mạng. 
+  
+  • Mặt khác, em đã biết thêm nhiều hơn về thư viện đồ họa, về logic của game và biết làm game rất khó, cần sự tỉ mỉ, cần mẫn....
