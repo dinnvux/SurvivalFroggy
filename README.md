@@ -3,8 +3,11 @@
   
  # Hướng dẫn cài đặt
   • Download file zip của game rồi extract tại ổ E. (Nếu bạn không có ổ E thì điều chỉnh lại Makefile sao cho phù hợp)
+  
   • Mở folder trong Visual Studio Code.
+  
   • Sử dụng lệnh `mingw32-make` và `./game.exe` để chạy game.
+  
   • Sau đó thì tận hưởng con game!
  
  # Luật chơi
