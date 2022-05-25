@@ -1,0 +1,2 @@
+all:
+	g++ -IE:\SurvivalFroggy-1\include -LE:\SurvivalFroggy-1\lib -o game.exe Source/Car.cpp Source/CarsManager.cpp Source/DrawMap.cpp Source/DrawText.cpp Source/Frog.cpp Source/Croc.cpp Source/Main.cpp Source/RiverManager.cpp Source/Turtle.cpp -lsfml-graphics -lsfml-window -lsfml-system -g
