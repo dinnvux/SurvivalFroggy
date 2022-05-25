@@ -5,4 +5,7 @@
   
   
  # Game play
-    - →↑↓←
+    - ↑ : Go up
+    - → : Go right
+    - ↓ : Go down
+    - ← : Go left
