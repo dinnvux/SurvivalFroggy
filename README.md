@@ -31,7 +31,12 @@
   • Hiệu ứng chuyển màn.
   
   • Thêm một số hoạt ảnh chuyển động của cá sấu, rùa, cũng như của chú ếch. Có thể tham khảo như sau:
+  
   ![Cars](https://user-images.githubusercontent.com/100585484/170363889-158e59dd-85e0-457e-84ac-07d1f024cf78.png)
+  ![Croc](https://user-images.githubusercontent.com/100585484/170363966-1db3237c-4b7d-4b9a-82e1-0a39360cd25a.png)
+  ![Frog](https://user-images.githubusercontent.com/100585484/170363977-b4a861a1-1e9b-4db1-97af-6458aa53027c.png)
+
+  
 
   
    
