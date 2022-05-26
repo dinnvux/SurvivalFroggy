@@ -19,11 +19,11 @@
   
   • Press ← để điều khiển chú ếch sang trái.
   
-  • Press ENTER để qua level mới mỗi khi hoàn thành level.
+  • Press ENTER để qua level mới mỗi khi hoàn thành level hoặc mỗi khi chết.
   
   -> Về tổng thể game sẽ có 8 level, 4 loại xe với 4 vận tốc khác nhau; trên sông thì có gỗ trôi, rùa bơi, và đương nhiên là cá sấu. Sau mỗi level thì lượng xe, lượng thanh gỗ cũng như vận tốc di chuyển đều được gia tăng. Không những thế thời gian của mỗi level sẽ càng ngày càng giảm hơn!
   
-  **Win Condition:** Để có thể giành chiến thắng thì người chơi sẽ phải đưa chú ếch đến đầm lầy của mình không những một mà là năm lần để có thể qua được một level! Bạn sẽ chỉ có một mạng duy nhất, khi để thua một lần thì... GAME OVER!
+  **Win Condition:** Để có thể giành chiến thắng thì người chơi sẽ phải đưa chú ếch đến đầm lầy của mình không những một mà là năm lần để có thể qua được một level! 
   
  ## Một số chức năng đã cài đặt
   • Hệ thống đếm ngược thời gian : cụ thể mỗi level bạn sẽ có 63s để có thể băng qua đến đầm lầy của mình, sau mỗi level thì thời gian sẽ giảm đi ít hơn.
